@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Landing Page :-
 
-![Click Here](carHub.jpg "Red Head")
+![Click Here](car.png "Red Head")
 
 ### Car Catalogue :-
 
