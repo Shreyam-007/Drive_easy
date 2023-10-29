@@ -37,13 +37,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Landing Page :-
 
-![Click Here](car.png "Red Head")
+
 
 ### Car Catalogue :-
 
-![Click Here](carcata.jpg "Red Head")
+
 
 ### Car Details :-
 
-![Click Here](carDetails.jpg "Red Head")
+
 
