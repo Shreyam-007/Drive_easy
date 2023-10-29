@@ -37,13 +37,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Landing Page :-
 
-
+![carHub](https://github.com/Shreyam-007/Drive_easy/assets/109955150/5d8f5c7e-2439-4a85-84d2-68b99e9362c3)
 
 ### Car Catalogue :-
 
-
+![carcata](https://github.com/Shreyam-007/Drive_easy/assets/109955150/73f82f9b-634e-4154-9173-615523337dc5)
 
 ### Car Details :-
 
-
+![carDetails](https://github.com/Shreyam-007/Drive_easy/assets/109955150/60349de1-3612-4701-bf85-dcb4b770b511)
 
